@@ -2,6 +2,7 @@
 
 SYADINA ZUFARIN AFIFAH
 H1D021077
+Link lengkap source code : https://drive.google.com/file/d/1E_OoFBYiPPm7gc1GWQLYLSJZs7hWqZkN/view?usp=sharing
 
 Gambaran Umum :
 Aplikasi sederhana ini mengimplementasikan beberapa fitur seperti login, side menu, routing dan local storage.
